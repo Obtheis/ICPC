@@ -1,6 +1,14 @@
 # ICPC
 My learning process for the competition.'
 
+
+day 6: piezo(piezo1.ino): <img width="1326" height="560" alt="image" src="https://github.com/user-attachments/assets/230dd6e0-8e97-4e33-841d-f4b83b78be7b" />
+       servo(servo1.ino): <img width="1603" height="645" alt="image" src="https://github.com/user-attachments/assets/ea1d2073-1dc9-42c0-bdc1-417b1588defa" />
+       weather sensor   : <img width="1742" height="734" alt="image" src="https://github.com/user-attachments/assets/18dda729-47bf-4ade-97d6-9573b74b8219" />
+
+       
+
+
 day 5: RGB + photoresistor  + potentionmeter(rgb1.ino +potentionmeter1.ino +photoresistor): <img width="1920" height="778" alt="image" src="https://github.com/user-attachments/assets/01a58877-4793-4b49-a6fa-68d6a6d64b91" />
                                                        <img width="1643" height="761" alt="image" src="https://github.com/user-attachments/assets/a6224911-6fcf-45c4-8422-85e3c08d7c51" />
 
