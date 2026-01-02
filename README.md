@@ -1,6 +1,9 @@
 # ICPC
 My learning process for the competition.'
 
+day 7(Gyro): <img width="1681" height="724" alt="image" src="https://github.com/user-attachments/assets/621f4987-e606-4470-b29a-020dce828d10" />
+
+
 
 day 6: piezo(piezo1.ino): <img width="1326" height="560" alt="image" src="https://github.com/user-attachments/assets/230dd6e0-8e97-4e33-841d-f4b83b78be7b" />
        servo(servo1.ino): <img width="1603" height="645" alt="image" src="https://github.com/user-attachments/assets/ea1d2073-1dc9-42c0-bdc1-417b1588defa" />
